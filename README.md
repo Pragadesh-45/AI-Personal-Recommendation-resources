@@ -44,7 +44,7 @@ Learn the essentials of Exploratory Data Analysis using Pandas in Python with:
 
 ## SQL
 
-[Basic SQL implementation (Interative)](https://sqlbolt.com/)
+- [Basic SQL implementation (Interative)](https://sqlbolt.com/)
 
 
 
