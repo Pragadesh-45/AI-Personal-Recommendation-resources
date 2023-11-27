@@ -10,6 +10,7 @@ I recommend this [cartel](https://github.com/nivu/ai_all_resources) to experienc
 - [Courses](#courses)
 - [Pandas](#pandas)
 - [NumPy](#numpy)
+- [SQL](#sql)
 
 ## Getting Started
 
@@ -34,11 +35,16 @@ If you're diving into Pandas, these resources are a great starting point:
 For a thorough understanding of NumPy, check out:
 
 - [NumPy Full Python Course](https://youtu.be/4c_mwnYdbhQ?feature=shared)
+  
 ## Exploratory Data Analysis (EDA)
 
 Learn the essentials of Exploratory Data Analysis using Pandas in Python with:
 
 - [Exploratory Data Analysis with Pandas Python 2023](https://youtu.be/xi0vhXFPegw?feature=shared)
+
+## SQL
+
+[Basic SQL implementation (Interative)] (https://sqlbolt.com/)
 
 
 
